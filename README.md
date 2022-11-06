@@ -23,7 +23,7 @@ $ pip install -r syarat.txt
 ```
 **INSTALL**
 ```bash
-$ git clone https://github.com/bimasena321/QR_encode/
+$ git clone https://github.com/bimasena321/QR_encode.git
 $ cd QR_encode
 ```
 **penggunaan untuk Windows dan Mac os:**
