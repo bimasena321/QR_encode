@@ -1,6 +1,6 @@
-import os as a
+import os
 import pyqrcode as QR
-a.system("clear")
+os.system("clear")
 #dibuat oleh bimasena321
 def en_QR(a):
   print("""
@@ -13,7 +13,7 @@ def en_QR(a):
   b = input("buat barcode: ")
   kode = QR.create(b)
   kode.png("QR_kode.png",scale=10)
-  a.system("mv QR_kode.png pngQR")
+  os.system("mv QR_kode.png pngQR")
   print("QR code status: sukses")
   
   
