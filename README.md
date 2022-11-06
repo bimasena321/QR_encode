@@ -12,9 +12,9 @@
 
 
 **persyaratan:**
- * pyqrcode    https://pypi.org/project/PyQRCode/
+ * PyQRCode    https://pypi.org/project/PyQRCode/
  * setuptools  https://pypi.org/project/setuptools/
- * whell       https://pypi.org/project/wheel/
+ * wheel       https://pypi.org/project/wheel/
  
  
 **Install persyaratan:**
