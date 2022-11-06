@@ -34,8 +34,8 @@ $ python QR.py
 ```bash
 $ python3 QR.py
 ```
-
-<p align="center"><img src="https://drive.google.com/file/d/1_V5knnOTvc5sOc1CFIg1EE0haOofZuDJ/view?usp=share_link"></p>
+<h3 align="center">Hasil encode:</h3>
+<p align="center"><img src="https://lh3.googleusercontent.com/-J2tnmcC-XXg/YYyTQaYvNGI/AAAAAAAABII/_wV5Byc1x-gXvBvwBoxH1c0PNNMbq7r-ACLcBGAsYHQ/Mediaeducations.com.png"></p>
 
 
 
